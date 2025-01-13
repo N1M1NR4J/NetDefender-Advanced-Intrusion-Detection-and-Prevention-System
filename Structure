@@ -1,0 +1,13 @@
+🛠️ Project Structure
+suricata-idps/
+├── rules/                # Suricata rules (custom and example rules)
+├── scripts/              # Automation scripts for installation and management
+├── webapp/               # Web application files for monitoring logs
+│   ├── index.html        # Main web page
+│   ├── styles.css        # CSS for styling
+│   ├── app.py            # Backend logic for the web app
+│   ├── logs/             # Directory for log files (fast.log, error.log)
+├── configs/              # Configuration files (suricata.yaml, etc.)
+├── README.md             # Project documentation
+├── LICENSE               # License file (e.g., MIT License)
+└── setup.md              # Detailed setup instructions
