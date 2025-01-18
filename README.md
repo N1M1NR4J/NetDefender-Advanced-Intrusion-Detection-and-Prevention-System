@@ -18,5 +18,11 @@ This project is a comprehensive IDPS built using Suricata to detect and prevent 
 ## 🚀 Getting Started
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/suricata-idps.git
-cd suricata-idps
+git clone https://github.com/AkshayKanathur/NetDefender-Advanced-Intrusion-Detection-and-Prevention-System.git
+cd NetDefender-Advanced-Intrusion-Detection-and-Prevention-System
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+http://127.0.0.1:5000
+```

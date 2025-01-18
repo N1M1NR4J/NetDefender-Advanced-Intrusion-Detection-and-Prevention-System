@@ -1,9 +1,8 @@
 🛠️ Project Structure
-suricata-idps/
-idps/
+NetDefender-Advanced-Intrusion-Detection-and-Prevention-System/
 ├── app.py                # Main application file for the web app (Flask/Django)
+├── venv/                 # Virtual environment folder (ignored from Git)
 ├── templates/            # HTML templates for the web application
-│   ├── error.html        # Error log page
+│   ├── errorlog.html        # Error log page
 │   ├── index.html        # Home page with log monitoring
-│   ├── venv/             # Virtual environment folder (ignored from Git)
 
