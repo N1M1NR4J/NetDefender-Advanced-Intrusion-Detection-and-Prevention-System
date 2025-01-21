@@ -1,4 +1,3 @@
-git clone https://github.com/AkshayKanathur/NetDefender-Advanced-Intrusion-Detection-and-Prevention-System.git
 cd NetDefender-Advanced-Intrusion-Detection-and-Prevention-System
 python -m venv .venv
 .venv\Scripts\activate
